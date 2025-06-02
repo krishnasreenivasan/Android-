@@ -32,4 +32,10 @@ g++ main.cpp LRUCache.cpp -o lru
 | `get`     | O(1) | O(n)  |
 | `put`     | O(1) | O(n)  |
 
+##  Constraints
+- 1 ≤ capacity ≤ 3000  
+- 0 ≤ key, value ≤ 10⁴  
+- Up to 10⁵ operations
+
+
 
